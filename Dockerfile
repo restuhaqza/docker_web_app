@@ -13,5 +13,7 @@ RUN npm install --save
 #Bundle app source to container
 COPY . .
 
+RUN npm install -g nodemon
+
 EXPOSE 8080
 CMD ["npm", "start"]
