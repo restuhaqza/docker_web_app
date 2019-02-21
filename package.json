@@ -1,0 +1,26 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.JS on Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restuhaqza/docker_web_app.git"
+  },
+  "keywords": [
+    "Dockerizing",
+    "a",
+    "Node.JS",
+    "web",
+    "apps"
+  ],
+  "author": "@restuhaqza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restuhaqza/docker_web_app/issues"
+  },
+  "homepage": "https://github.com/restuhaqza/docker_web_app#readme"
+}
