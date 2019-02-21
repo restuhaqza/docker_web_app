@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/restuhaqza/docker_web_app/issues"
   },
-  "homepage": "https://github.com/restuhaqza/docker_web_app#readme"
+  "homepage": "https://github.com/restuhaqza/docker_web_app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
